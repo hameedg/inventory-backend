@@ -1,0 +1,13 @@
+.env*
+node_modules/
+public/node_modules
+coverage
+yarn-error.log
+.DS_Store
+temp_models/
+uploads/
+scripta/tarnea/csv
+scripts/generate_models.js
+src/controllers/csvOperations.zip
+scripts/generate_models
+*.csv
